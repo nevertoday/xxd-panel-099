@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 099
 
-### Retell a photograph as a bright, loose, deliberately imperfect picture-book world
+### Turn a photograph into a bold, memorable mascot-led brand visual
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -21,7 +21,7 @@ Sample positions are reserved. Verifiable original works or extensions reviewed 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-**Panel 099** keeps identity and key gestures recognisable, then turns the photograph into a small narrative world of loose ink, flat watercolor or gouache washes, visible brush marks, symbolic scale, naïve perspective, and playful hand lettering. Its apparent innocence is held together by mature negative space and graphic rhythm.
+**Panel 099** extracts 3–5 stable identity cues and rebuilds the source with rounded geometry, exaggerated proportions, bold clean outlines, and a clear shape language. The mascot remains recognisable at small size while oversized typography and a focused 2–4 colour system turn it into a campaign-ready brand visual.
 
 ### Best for
 
@@ -42,15 +42,15 @@ Sample positions are reserved. Verifiable original works or extensions reviewed 
 
 The Chinese file preserves the user's wording verbatim and is the sole runtime creative authority. The other four files are faithful reading translations and never rewrite the generation prompt.
 
-**Signature:** faux-naïf picture-book illustration · loose ink linework · flat watercolor washes · visible brush marks · symbolic simplification · playful hand lettering · deliberate imperfection
+**Signature:** Flat Vector Mascot · bold black outline · rounded geometry · exaggerated proportions · oversized typography · 2–4 colour brand system
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | A bright, tender, witty narrative poster with the tactility of an independently painted picture book |
-| **Recognisable signature** | loose ink, flat watercolor, visible brush marks, symbolic scale, naïve perspective, and irregular hand lettering |
+| **What you get** | A mascot-led campaign visual where character, type, and brand composition work as one |
+| **Recognisable signature** | bold black outlines, rounded geometry, exaggerated proportions, oversized type, and a focused brand palette |
 | **How it respects the source** | Identity, pose, and narrative remain recognisable while unnecessary elements are actively omitted without tracing filters |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
@@ -58,16 +58,16 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 ## Transformation logic
 
 ```text
-find the narrative core → remove complex background detail → turn subjects into recognisable symbols → recompose with naïve perspective and symbolic scale → paint in loose ink and source-derived watercolor → let lettering grow through the image
+extract 3–5 identity cues → build rounded geometric shape language → exaggerate action and proportion → make the mascot the absolute focal point → interlock oversized typography → brand 2–4 source-derived colours → add bubbles only when narratively useful
 ```
 
 ## Recognisable finished traits
 
-- Fine loose dark ink may wander, repeat, overshoot, or remain open.
-- Flat watercolor and gouache-like washes preserve brush marks, spill, paper white, and uneven coverage.
-- Bright colours come from the source's liveliest hues rather than an averaged or muted palette.
-- Irregular hand lettering grows around subjects and negative space as part of the painting.
-- Avoid realism, strict perspective, smooth vectors, digital gradients, 3D, commercial cartoons, and templated children's posters.
+- Use bold, clean black outlines, rounded geometry, large flat colour fields, and very few internal details.
+- Let oversized display type overlap, crop behind, or interlock with the mascot as structural space.
+- Extract and brand 2–4 recognisable source colours; avoid neon, muddy grey, and cheap candy palettes.
+- Use small supporting type and optional bubbles only when they strengthen character or narrative.
+- Avoid realism, anime, 3D, plastic gradients, generic sticker assets, childish cartoons, and templated social layouts.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-099-prompt.en.md)
 
@@ -333,7 +333,7 @@ Each of the 60 Panels preserves its own original brief and aesthetic logic. The 
 | **[xxd-panel-095](https://github.com/nevertoday/xxd-panel-095)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-096](https://github.com/nevertoday/xxd-panel-096)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-097](https://github.com/nevertoday/xxd-panel-097)** | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
-| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Faux-naïf picture-book illustration · loose ink linework · flat watercolor washes · visible brush marks · symbolic simplification · playful hand lettering |
+| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Flat Vector Mascot · bold black outline · rounded geometry · exaggerated proportions · oversized typography · 2–4 colour brand system |
 <!-- xxd-panel-catalog:end -->
 
 ## About XXD

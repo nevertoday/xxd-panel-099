@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 099
 
-### يعيد رواية الصورة كعالم كتاب مصوّر مشرق وعفوي وناقص عن قصد
+### يحوّل الصورة إلى هوية علامة جريئة يقودها تميمة بصرية لا تُنسى
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -21,7 +21,7 @@
 <!-- xxd-human-intro:start -->
 ## ما الذي يحله هذا الأسلوب؟
 
-يحافظ **Panel 099** على الموضوع والوضع الأساسي واضحين، ثم يحوّل الصورة إلى عالم سردي صغير بخط حبر رخو وألوان مائية مسطحة وآثار فرشاة ظاهرة ومقياس رمزي ومنظور فطري وحروف يدوية مرحة. وراء البراءة الظاهرة فراغ ناضج وإيقاع غرافيكي مضبوط.
+يستخرج **Panel 099** من 3 إلى 5 سمات هوية ثابتة، ثم يعيد تصميم المصدر كتميمة علامة بهندسة مستديرة ونسب مبالغ فيها ومحيط أسود نظيف ولغة أشكال واضحة. تبني الحروف الضخمة ونظام من 2–4 ألوان صورة حملة متماسكة.
 
 ### مناسب لـ
 
@@ -42,15 +42,15 @@
 
 يحفظ الملف الصيني صياغة المستخدم حرفياً وهو المرجع الإبداعي الوحيد وقت التشغيل. أما اللغات الأربع الأخرى فترجمات قراءة أمينة ولا تعيد كتابة موجّه التوليد.
 
-**البصمة:** كتاب مصوّر فطري متعمّد · حبر رخو · ألوان مائية مسطحة · آثار فرشاة ظاهرة · تبسيط رمزي · حروف يدوية مرحة · نقص مقصود
+**البصمة:** تميمة متجهية مسطحة · محيط أسود عريض · هندسة مستديرة · نسب مبالغ فيها · حروف ضخمة · نظام علامة من 2–4 ألوان
 
 <!-- xxd-panel-benefit:start -->
 ## فحص الملاءمة السريع
 
 | ما تريد معرفته | ما يمنحه هذا الأسلوب |
 |---|---|
-| **الناتج** | ملصق سردي مشرق ولطيف وفكاهي بروح صفحة كتاب مصوّر مستقل |
-| **البصمة الواضحة** | حبر رخو، ألوان مائية مسطحة، آثار فرشاة، مقياس رمزي، منظور فطري وحروف غير منتظمة |
+| **الناتج** | صورة حملة تقودها تميمة، تعمل فيها الشخصية والحروف وبنية العلامة كوحدة واحدة |
+| **البصمة الواضحة** | محيط أسود عريض، هندسة مستديرة، نسب مبالغ فيها، حروف ضخمة وألوان علامة محدودة |
 | **احترام المصدر** | يحفظ الهوية والوضع والسرد ويحذف غير الضروري من دون مرشح تتبع |
 | **الاستخدامات** | ملصقات فنية وأغلفة ومحتوى اجتماعي وتصميم مستقل ونسب متعددة وحزم خلفيات لأربع أجهزة |
 <!-- xxd-panel-benefit:end -->
@@ -64,7 +64,7 @@
 ## سمات النتيجة النهائية
 
 - يسمح خط الحبر الرفيع بالميل والتكرار والتجاوز وعدم إغلاق المحيط.
-- تحتفظ الألوان المائية المسطحة بآثار الفرشاة وبياض الورق والتغطية غير المنتظمة.
+
 - تُستخرج الألوان من أكثر ألوان الصورة الأصلية إشراقًا وحياة.
 - تنمو الحروف اليدوية داخل الرسم وليست عنوانًا مضافًا لاحقًا.
 - تجنّب الواقعية والمنظور الصارم والمتجهات الملساء و3D والرسوم التجارية وقوالب ملصقات الأطفال.
@@ -332,7 +332,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-095](https://github.com/nevertoday/xxd-panel-095)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-096](https://github.com/nevertoday/xxd-panel-096)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-097](https://github.com/nevertoday/xxd-panel-097)** | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
-| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Faux-naïf picture-book illustration · loose ink linework · flat watercolor washes · visible brush marks · symbolic simplification · playful hand lettering |
+| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Flat Vector Mascot · bold black outline · rounded geometry · exaggerated proportions · oversized typography · 2–4 colour brand system |
 <!-- xxd-panel-catalog:end -->
 
 ## عن XXD

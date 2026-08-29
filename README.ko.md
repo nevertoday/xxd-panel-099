@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 099
 
-### 사진을 밝고 느슨하며 의도적으로 불완전한 그림책 세계로 다시 이야기합니다
+### 사진을 대담하고 기억에 남는 마스코트 중심 브랜드 비주얼로 바꿉니다
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -21,7 +21,7 @@
 <!-- xxd-human-intro:start -->
 ## 이 스타일이 해결하는 문제
 
-**Panel 099**은 주체와 핵심 자세를 알아볼 수 있게 지키면서 느슨한 잉크선, 평면 수채, 보이는 붓자국, 상징적 크기, 주관적 원근, 유희적인 손글씨로 작은 서사 세계를 만듭니다. 천진한 표면 아래에는 성숙한 여백과 그래픽 리듬이 있습니다.
+**Panel 099**은 3–5개의 안정적인 정체성 특징을 추출해 둥근 기하, 과장 비율, 굵고 깨끗한 윤곽, 명확한 Shape Language로 브랜드 캐릭터를 설계합니다. 초대형 타이포와 2–4색 시스템이 캠페인 비주얼을 만듭니다.
 
 ### 이런 경우에 적합합니다
 
@@ -42,15 +42,15 @@
 
 중국어 파일은 사용자가 제공한 원문을 그대로 보존하며 실행 시 유일한 창작 기준입니다. 다른 네 언어는 충실한 읽기 번역이며 생성 프롬프트를 바꾸지 않습니다.
 
-**특징:** 의도적으로 소박한 그림책 · 느슨한 잉크선 · 평면 수채 · 보이는 붓자국 · 상징적 단순화 · 유희적인 손글씨 · 의도적 불완전성
+**특징:** 플랫 벡터 마스코트 · 굵은 검정 윤곽 · 둥근 기하 · 과장 비율 · 초대형 타이포 · 2–4색 브랜드 시스템
 
 <!-- xxd-panel-benefit:start -->
 ## 빠른 적합성 확인
 
 | 확인할 점 | 이 스타일의 답 |
 |---|---|
-| **결과물** | 독립 그림책 펼침면처럼 밝고 온화하며 유머러스한 서사 포스터 |
-| **대표 특징** | 느슨한 잉크, 평면 수채, 붓자국, 상징적 크기, 주관적 원근, 불규칙 손글씨 |
+| **결과물** | 캐릭터, 글자, 브랜드 구도가 하나로 작동하는 마스코트 캠페인 비주얼 |
+| **대표 특징** | 굵은 검정 윤곽, 둥근 기하, 과장 비율, 초대형 글자, 제한된 브랜드 색 |
 | **입력 존중 방식** | 정체성·자세·서사는 유지하고 불필요한 요소는 생략하며 외곽 필터를 쓰지 않음 |
 | **활용처** | 아트 포스터, 표지, 소셜 콘텐츠, 디자인 전용 이미지, 여러 비율, 4종 기기 벽지 |
 <!-- xxd-panel-benefit:end -->
@@ -58,13 +58,13 @@
 ## 변환 논리
 
 ```text
-서사 핵심 찾기 → 복잡한 배경 삭제 → 주체를 알아볼 수 있는 기호로 변환 → 주관적 원근과 상징적 크기로 재구성 → 느슨한 잉크와 사진 유래 수채로 그리기 → 글자를 화면 안에서 자라게 하기
+3–5개 정체성 특징 추출 → 둥근 기하 Shape Language 구축 → 동작과 비율 과장 → 마스코트를 절대 주인공으로 → 초대형 글자 결합 → 원본의 2–4색을 브랜드화
 ```
 
 ## 완성작의 특징
 
 - 가늘고 느슨한 선은 비뚤어짐, 반복, 넘침, 미완성 윤곽을 허용합니다.
-- 평면 수채는 붓자국, 선 밖의 색, 종이 흰색, 고르지 않은 덮임을 남깁니다.
+
 - 밝은 색은 원본에서 가장 생명력 있는 색에서 가져옵니다.
 - 손글씨는 나중에 붙인 제목이 아니라 그림 일부로 자랍니다.
 - 사실주의, 엄격 원근, 매끈한 벡터, 3D, 상업 카툰, 템플릿 어린이 포스터를 피합니다.
@@ -332,7 +332,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-095](https://github.com/nevertoday/xxd-panel-095)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-096](https://github.com/nevertoday/xxd-panel-096)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-097](https://github.com/nevertoday/xxd-panel-097)** | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
-| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Faux-naïf picture-book illustration · loose ink linework · flat watercolor washes · visible brush marks · symbolic simplification · playful hand lettering |
+| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Flat Vector Mascot · bold black outline · rounded geometry · exaggerated proportions · oversized typography · 2–4 colour brand system |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD 소개

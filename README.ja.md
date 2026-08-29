@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 099
 
-### 写真を明るく、ゆるく、意図的に不完全な絵本世界へ語り直す
+### 写真を大胆で記憶に残るマスコット主導のブランドビジュアルへ
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -21,7 +21,7 @@
 <!-- xxd-human-intro:start -->
 ## このスタイルが解決すること
 
-**Panel 099** は主体と重要な姿勢を判別可能に保ち、ゆるい墨線、平面水彩、見える筆跡、象徴的な尺度、主観的遠近、遊びのある手描き文字で小さな物語世界へ変換します。無邪気さの下には成熟した余白とリズムがあります。
+**Panel 099** は3〜5個の安定した識別特徴を抽出し、丸い幾何形、誇張比率、太く清潔な輪郭、明快な Shape Language でブランドキャラクターへ再設計します。超大文字と2〜4色の限定配色がキャンペーン視覚を構成します。
 
 ### 向いている用途
 
@@ -42,15 +42,15 @@
 
 中国語ファイルが逐語の原文であり、実行時の唯一の創作権威です。他4言語は忠実な読解訳で、生画像プロンプトを書き換えません。
 
-**特徴：** 擬素朴な絵本挿絵 · ゆるい墨線 · 平面水彩 · 見える筆跡 · 記号化 · 遊びのある手描き文字 · 意図的な不完全さ
+**特徴：** フラットベクターマスコット · 太い黒輪郭 · 丸い幾何形 · 誇張比率 · 超大文字 · 2–4色ブランドシステム
 
 <!-- xxd-panel-benefit:start -->
 ## すぐ分かる適性
 
 | 確認したいこと | このスタイルの答え |
 |---|---|
-| **得られるもの** | 独立絵本の見開きのように明るく優しくユーモラスな物語ポスター |
-| **識別しやすい特徴** | ゆるい墨線、平面水彩、筆跡、象徴尺度、主観的遠近、不規則な手描き文字 |
+| **得られるもの** | キャラクター、文字、ブランド構成が一体になったマスコット主導のキャンペーンビジュアル |
+| **識別しやすい特徴** | 太い黒輪郭、丸い幾何形、誇張比率、超大文字、限定ブランド色 |
 | **入力の尊重** | 同一性、姿勢、物語を保ち、不要部分を省き、輪郭フィルターにはしない |
 | **用途** | アートポスター、表紙、SNS、デザイン単体、複数比率、四端末壁紙 |
 <!-- xxd-panel-benefit:end -->
@@ -58,14 +58,14 @@
 ## 変換ロジック
 
 ```text
-物語の核を見つける → 複雑な背景を省く → 主体を判別可能な記号へ変える → 主観的遠近と象徴尺度で再構成 → ゆるい墨線と写真由来の水彩で描く → 文字を画面の中で育てる
+3〜5個の識別特徴を抽出 → 丸い幾何形で Shape Language を構築 → 動作と比率を誇張 → キャラクターを絶対主役に → 超大文字を交差 → 元写真由来の2〜4色をブランド化
 ```
 
 ## 完成作の特徴
 
-- 細くゆるい濃色線は歪み、反復、はみ出し、未閉鎖を許します。
-- 平面水彩は筆跡、越線、紙白、むらを残します。
-- 明るい色は元写真で最も生命力のある色から抽出します。
+- 太く清潔な黒輪郭、丸い幾何形、大きな純色色面、最小限の内部細部を使います。
+- 超大文字はキャラクターと重なり、遮られ、裁ち落とされて版面構造になります。
+- 元写真から2〜4色を抽出してブランド化し、蛍光・濁り・安価な飴色を避けます。
 - 手描き文字は後付け見出しではなく絵の一部として育ちます。
 - 写実、厳密遠近、滑らかなベクター、3D、商業カートゥーン、テンプレ児童ポスターを避けます。
 
@@ -332,7 +332,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-095](https://github.com/nevertoday/xxd-panel-095)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-096](https://github.com/nevertoday/xxd-panel-096)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-097](https://github.com/nevertoday/xxd-panel-097)** | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
-| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Faux-naïf picture-book illustration · loose ink linework · flat watercolor washes · visible brush marks · symbolic simplification · playful hand lettering |
+| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Flat Vector Mascot · bold black outline · rounded geometry · exaggerated proportions · oversized typography · 2–4 colour brand system |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD について
