@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 099
+# 🦁 XXD Panel 099｜Typeface Mascot
 
 ### Turn a photograph into a bold, memorable mascot-led brand visual
 

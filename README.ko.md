@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 099
+# 🦁 XXD Panel 099｜서체 마스코트
 
 ### 사진을 대담하고 기억에 남는 마스코트 중심 브랜드 비주얼로 바꿉니다
 

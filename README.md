@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 099
+# 🦁 XXD Panel 099｜字体吉祥物
 
 ### 把照片设计成有品牌识别度的角色与文字主视觉
 
