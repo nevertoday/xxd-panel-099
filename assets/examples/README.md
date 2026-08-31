@@ -11,6 +11,8 @@ This directory contains the reviewed extension samples displayed by all five loc
 
 - `sample-05`–`sample-08`: four 16:9 landscape left–right works (1672×941 PNG); the reality view is on the left and Panel 099's transformed design is on the right.
 - `sample-09`–`sample-12`: four approximately 3:4 portrait top–bottom works (nominally 1086×1448 PNG); the reality view is above and Panel 099's transformed design is below.
+- Landscape source group: `group_009`; `sample-05` → `033.jpg`, `sample-06` → `034.jpg`, `sample-07` → `035.jpg`, `sample-08` → `036.jpg`.
+- Portrait source group: `group_018`; `sample-09` → `069.jpg`, `sample-10` → `070.jpg`, `sample-11` → `071.png`, `sample-12` → `072.jpg`.
 - Each work was generated independently from Panel 099's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.
 - No artwork from another numbered Panel, broken placeholder, or banner is accepted as a sample.
 
