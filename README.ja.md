@@ -258,7 +258,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
 
-60 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+99 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。表には 001 から 099 までを欠番なく掲載し、現在のプロジェクトを太字で示します。
 
 | プロジェクト | スタイル特性 |
 |---|---|
@@ -335,24 +335,32 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-071](https://github.com/nevertoday/xxd-panel-071) | 柔らかなパステル · パステルクレヨン · 水溶性色鉛筆 · 白に近い紙面 · 浮遊する記憶 · 詩的な手書き文字 |
 | [xxd-panel-072](https://github.com/nevertoday/xxd-panel-072) | 半透明すりガラス窓 · 領域差ソフトフォーカス · ミニマル幾何学 · 識別輪郭 · 現代編集文字 |
 | [xxd-panel-073](https://github.com/nevertoday/xxd-panel-073) | 等角投影微縮建築 · 切断立方体 · 大陸棚断面 · 合理的足場 · 白いテクスチャ紙 |
-| **[xxd-panel-074](https://github.com/nevertoday/xxd-panel-074)** | 標準角丸正方形 · 正面擬似3D／2.5D · 元写真の魂 · 連続遮蔽 · マット彫刻 · ブランドアイコン |
-| **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | 濃色クレヨン · アイボリー手工紙 · 柔らかな不定形色面 · リソグラフ粒子 · 大きな余白 · 私的注記 |
-| **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | 粗い濃色クレヨン · 木炭 · 明るいマカロン色面 · 45%連続余白 · 天然紙 · 観察注記 |
-| **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | ミニマル紙彫刻 · 明瞭な切り紙輪郭 · 前後レイヤー · 柔らかな影 · 人間的マカロン · 旅行誌組版 |
-| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | アイボリーコットン紙 · 深い凹圧 · 凹溝シャンパン金箔 · 繊細線形標章 · 無インク空押し · 控えめな高級感 |
-| **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | 強い幾何直線 · 自由な有機曲線 · ペン淡彩 · 未完成感 · 広い紙白 · 編集的な図文構成 |
-| **[xxd-panel-080](https://github.com/nevertoday/xxd-panel-080)** | 柔らかな有機幾何 · デジタルガッシュ · クレヨン粒子 · 植物系配色 · 自然な比喩 · 感情の余白 |
-| **[xxd-panel-081](https://github.com/nevertoday/xxd-panel-081)** | 均一彩色モノライン · 開いた輪郭 · 密度階層 · 2–4色特色 · リソグラフ粒子 · 私的記念叙事 |
-| **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | 不規則水彩色域 · Naïve + Wonky · Isometric／2.5D · 素朴な輪郭 · 鮮やかな色 · 立体主役 |
-| **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | Ugly-cute 落書き · Wonky 輪郭 · 制御された不正確さ · 一人のユーモア主役 · 粗いクレヨン · 少・変・不器用・正確 |
-| **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | ミニマル都市線描 · 幾何学骨格 · 密度点描 · 透視リーディングライン · 限定色 · 詩的余白 |
-| **[xxd-panel-092](https://github.com/nevertoday/xxd-panel-092)** | Expressive pen · loose contours · geometric and scribble hatching · negative-space composition |
-| **[xxd-panel-093](https://github.com/nevertoday/xxd-panel-093)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
-| **[xxd-panel-094](https://github.com/nevertoday/xxd-panel-094)** | Fine pen-and-ink · selective solid black · source-derived spot colour · vast negative space · vintage book illustration |
-| **[xxd-panel-095](https://github.com/nevertoday/xxd-panel-095)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
-| **[xxd-panel-096](https://github.com/nevertoday/xxd-panel-096)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
-| **[xxd-panel-097](https://github.com/nevertoday/xxd-panel-097)** | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
-| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | Flat Vector Mascot · bold black outline · rounded geometry · exaggerated proportions · oversized typography · 2–4 colour brand system |
+| [xxd-panel-074](https://github.com/nevertoday/xxd-panel-074) | 標準角丸正方形 · 正面擬似3D／2.5D · 元写真の魂 · 連続遮蔽 · マット彫刻 · ブランドアイコン |
+| [xxd-panel-075](https://github.com/nevertoday/xxd-panel-075) | 濃色クレヨン · アイボリー手工紙 · 柔らかな不定形色面 · リソグラフ粒子 · 大きな余白 · 私的注記 |
+| [xxd-panel-076](https://github.com/nevertoday/xxd-panel-076) | 粗い濃色クレヨン · 木炭 · 明るいマカロン色面 · 45%連続余白 · 天然紙 · 観察注記 |
+| [xxd-panel-077](https://github.com/nevertoday/xxd-panel-077) | ミニマル紙彫刻 · 明瞭な切り紙輪郭 · 前後レイヤー · 柔らかな影 · 人間的マカロン · 旅行誌組版 |
+| [xxd-panel-078](https://github.com/nevertoday/xxd-panel-078) | アイボリーコットン紙 · 深い凹圧 · 凹溝シャンパン金箔 · 繊細線形標章 · 無インク空押し · 控えめな高級感 |
+| [xxd-panel-079](https://github.com/nevertoday/xxd-panel-079) | 強い幾何直線 · 自由な有機曲線 · ペン淡彩 · 未完成感 · 広い紙白 · 編集的な図文構成 |
+| [xxd-panel-080](https://github.com/nevertoday/xxd-panel-080) | 柔らかな有機幾何 · デジタルガッシュ · クレヨン粒子 · 植物系配色 · 自然な比喩 · 感情の余白 |
+| [xxd-panel-081](https://github.com/nevertoday/xxd-panel-081) | 均一彩色モノライン · 開いた輪郭 · 密度階層 · 2–4色特色 · リソグラフ粒子 · 私的記念叙事 |
+| [xxd-panel-082](https://github.com/nevertoday/xxd-panel-082) | 不規則水彩色域 · Naïve + Wonky · Isometric／2.5D · 素朴な輪郭 · 鮮やかな色 · 立体主役 |
+| [xxd-panel-083](https://github.com/nevertoday/xxd-panel-083) | Ugly-cute 落書き · Wonky 輪郭 · 制御された不正確さ · 一人のユーモア主役 · 粗いクレヨン · 少・変・不器用・正確 |
+| [xxd-panel-084](https://github.com/nevertoday/xxd-panel-084) | ミニマル都市線描 · 幾何学骨格 · 密度点描 · 透視リーディングライン · 限定色 · 詩的余白 |
+| [xxd-panel-085](https://github.com/nevertoday/xxd-panel-085) | 手工微縮舞台 · コレクション向け立体表紙 · 粘土とフェルト · 切り紙と糸 · マットな触感 · 芸術的余白 |
+| [xxd-panel-086](https://github.com/nevertoday/xxd-panel-086) | ミッドセンチュリー・モダニズム限定色シルクスクリーン · シルエット幾何 · 2–4色特色 · ドライブラシ · 一つの焦点 · 大きな余白 |
+| [xxd-panel-087](https://github.com/nevertoday/xxd-panel-087) | 実体糸の関係システム地図 · ピンの節点 · 朱色の糸 · 関係写像 · 創発幾何 · 研究壁の余白 |
+| [xxd-panel-088](https://github.com/nevertoday/xxd-panel-088) | 実験的文字画像構成 · 文字即画像 · 解体組版 · ドット輪郭 · 文字密度勾配 · 視覚詩 |
+| [xxd-panel-089](https://github.com/nevertoday/xxd-panel-089) | 私的生活手帳スケッチ · 一人の主役 · 少数の日常断片 · 緩い手描き線 · 水彩と色鉛筆 · 成熟した余白 |
+| [xxd-panel-090](https://github.com/nevertoday/xxd-panel-090) | 図式的ビジュアル思考マップ · 概念中心 · 文字ノード · 幾何骨格 · 軌跡矢印 · 視覚記譜 · 大きな余白 |
+| [xxd-panel-091](https://github.com/nevertoday/xxd-panel-091) | 単色青ペン物語スケッチ · コバルト／ペンブルー／群青／藍 · 方向ハッチング · 探索線 · 自然な紙白 |
+| [xxd-panel-092](https://github.com/nevertoday/xxd-panel-092) | Expressive pen · loose contours · geometric and scribble hatching · negative-space composition |
+| [xxd-panel-093](https://github.com/nevertoday/xxd-panel-093) | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
+| [xxd-panel-094](https://github.com/nevertoday/xxd-panel-094) | Fine pen-and-ink · selective solid black · source-derived spot colour · vast negative space · vintage book illustration |
+| [xxd-panel-095](https://github.com/nevertoday/xxd-panel-095) | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
+| [xxd-panel-096](https://github.com/nevertoday/xxd-panel-096) | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
+| [xxd-panel-097](https://github.com/nevertoday/xxd-panel-097) | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
+| [xxd-panel-098](https://github.com/nevertoday/xxd-panel-098) | 擬素朴水彩絵本挿絵 · 緩い墨線 · 平面水彩／ガッシュ · 記号的造形 · 天真な遠近 · 成熟した物語構図 |
+| **[xxd-panel-099](https://github.com/nevertoday/xxd-panel-099)** | ブランドマスコット平面ベクター · 太い黒輪郭 · 丸い幾何 · 誇張比率 · 2–4色ブランド配色 · 超大文字背景 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD について
@@ -371,7 +379,7 @@ CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-p
 | 階級 | Skill | 担当 |
 |---|---|---|
 | **将軍級** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な番号付き Skills の検出、画像・テーマ・用途からの推薦、番号指定の派遣、同一素材の複数スタイル試作、フォルダー画像の一括割り当てと個別派遣。 |
-| **兵士級** | `xxd-panel-NNN`（現在 001–098） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
+| **兵士級** | `xxd-panel-NNN`（現在 001–099） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
 
 将軍 Skill は、番号付き Skills 全隊の司令塔です。購入後すぐに利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
 <!-- xxd-panel-command-system:end -->
