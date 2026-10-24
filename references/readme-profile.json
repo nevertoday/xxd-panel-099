@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 099｜Typeface Mascot: redesigns the subject of a photo as a flat vector brand mascot — three to five stable identity traits kept, rounded geometric shapes, exaggerated proportions, thick clean black outlines, large flat colour fields with very little inner detail, a limited palette of two to four colours purified from the photo plus black and white, set in front of oversized bold rounded display lettering that the character overlaps or crops, with an occasional comic speech bubble and a touch of halftone in the background type. Buildings, plants or objects can become mascots too, without forced faces. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-099 or asks for mascot, brand character, flat vector character with big typography or sticker-style campaign visuals from a photo.",
+  "short_description": "字体吉祥物：把照片设计成粗黑轮廓的扁平吉祥物，站在超大字号文字前",
+  "zh-CN": {
+    "name": "字体吉祥物",
+    "tagline": "把照片里的主角设计成一个好记的吉祥物，配一行超大字做背景。",
+    "look": "主体只保留三到五个最稳定的特征，重新设计成圆润几何、比例夸张的扁平角色，比如放大的手脚或标志性部件，用粗重干净的黑色轮廓和大片纯色，几乎没有内部细节。建筑、植物或器物也能变成吉祥物，但不会硬加五官。背景是一行超大号、粗壮带圆角的无衬线字，被角色遮挡或裁切，偶尔加一个漫画气泡或少量网点。颜色只有从照片提纯的二到四种，加黑白，鲜明干净。",
+    "traits": ["身份特征提炼", "粗黑轮廓", "圆润几何", "夸张比例", "限定品牌色", "超大文字背景"],
+    "good": [
+      "有鲜明特征的单个主角：一只柯基、戴帽子的人、一个红色邮筒、一杯奶茶",
+      "动作或性格明显的照片：跳起来的人、打哈欠的猫、冲浪的人",
+      "想做成品牌形象、店铺头像、贴纸或活动主视觉的照片"
+    ],
+    "poor": [
+      "多个主体同等重要的合影或群像，只能突出一个角色",
+      "需要写实还原或保留复杂背景的照片：风景全景、室内全景",
+      "想要写实插画、动漫、3D 渲染或塑料渐变质感的需求"
+    ]
+  },
+  "en": {
+    "name": "Typeface Mascot",
+    "tagline": "Redesigns the star of your photo as a memorable mascot in front of one line of giant type.",
+    "look": "Only three to five of the subject's most stable traits are kept, then redesigned as a rounded, geometric flat character with exaggerated proportions, such as enlarged hands, feet or signature parts, drawn with thick clean black outlines and big areas of flat colour with almost no inner detail. Buildings, plants or objects can become mascots too, without forced faces. Behind the character sits a line of oversized, chunky, round-cornered sans-serif lettering that it overlaps or crops, sometimes with a comic speech bubble or a little halftone. The palette is just two to four colours purified from the photo plus black and white, bright and clean.",
+    "traits": ["Key identity traits", "Thick black outlines", "Rounded geometry", "Exaggerated proportions", "Limited brand colours", "Oversized type backdrop"],
+    "good": [
+      "A single subject with strong features: a corgi, a person in a hat, a red postbox, a cup of bubble tea",
+      "Photos with clear action or personality: someone mid-jump, a yawning cat, a surfer",
+      "Photos you want as a brand character, shop avatar, sticker or campaign key visual"
+    ],
+    "poor": [
+      "Group photos where several subjects matter equally, since only one character can lead",
+      "Photos that need realism or a detailed background: landscape panoramas, full interiors",
+      "Requests for realistic illustration, anime, 3D rendering or glossy plastic gradients"
+    ]
+  },
+  "ja": {
+    "name": "書体マスコット",
+    "tagline": "写真の主役を覚えやすいマスコットに仕立て、背景に特大の文字を一行置きます。",
+    "look": "主役の特徴のうち安定した三〜五つだけを残し、丸みのある幾何形と誇張した比率のフラットなキャラクターに作り直します。手足や象徴的な部分を大きくし、太くきれいな黒い輪郭と大きなベタ色で描き、内側の細部はほとんどありません。建物や植物、道具もマスコットになりますが、無理に顔を足すことはしません。背景には太く角の丸い特大のサンセリフ文字が一行あり、キャラクターがそれに重なったり切り取ったりします。漫画の吹き出しや少しの網点が入ることもあります。色は写真から澄ませた二〜四色と白黒だけで、鮮やかでクリーンです。",
+    "traits": ["特徴の抽出", "太い黒輪郭", "丸い幾何形", "誇張した比率", "限定ブランドカラー", "特大文字の背景"],
+    "good": [
+      "特徴のはっきりした主役がひとつ：コーギー、帽子の人、赤いポスト、タピオカミルクティー",
+      "動きや性格がはっきりした写真：ジャンプする人、あくびする猫、サーファー",
+      "ブランドキャラクター、店のアイコン、ステッカー、キャンペーンのメインビジュアルにしたい写真"
+    ],
+    "poor": [
+      "複数の人や物が同じくらい大事な集合写真（主役はひとりに絞られます）",
+      "写実的な再現や細かな背景が必要な写真：風景のパノラマ、室内の全景",
+      "写実的なイラスト、アニメ調、3D レンダリング、プラスチックのようなグラデーションを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "서체 마스코트",
+    "tagline": "사진의 주인공을 기억에 남는 마스코트로 디자인하고, 뒤에 초대형 글자 한 줄을 둡니다.",
+    "look": "주인공의 특징 중 가장 안정적인 세 가지에서 다섯 가지만 남겨, 둥근 기하 형태와 과장된 비율의 평면 캐릭터로 다시 디자인합니다. 손발이나 상징적인 부분을 키우고, 굵고 깔끔한 검은 윤곽과 넓은 단색 면으로 그리며 안쪽 세부는 거의 없습니다. 건물, 식물, 사물도 마스코트가 될 수 있지만 억지로 얼굴을 붙이지는 않습니다. 배경에는 굵고 모서리가 둥근 초대형 산세리프 글자 한 줄이 있고 캐릭터가 그 위에 겹치거나 일부를 가립니다. 만화 말풍선이나 약간의 망점이 들어가기도 합니다. 색은 사진에서 맑게 다듬은 두세 가지에서 네 가지 색과 흑백뿐이라 선명하고 깔끔합니다.",
+    "traits": ["핵심 특징 추출", "굵은 검은 윤곽", "둥근 기하 형태", "과장된 비율", "제한된 브랜드 색", "초대형 글자 배경"],
+    "good": [
+      "특징이 뚜렷한 주인공 하나: 코기, 모자 쓴 사람, 빨간 우체통, 버블티 한 잔",
+      "동작이나 성격이 분명한 사진: 점프하는 사람, 하품하는 고양이, 서핑하는 사람",
+      "브랜드 캐릭터, 가게 프로필, 스티커, 캠페인 메인 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "여러 주인공이 똑같이 중요한 단체 사진(캐릭터 하나만 앞세울 수 있습니다)",
+      "사실적 재현이나 복잡한 배경이 필요한 사진: 풍경 파노라마, 실내 전경",
+      "사실적 일러스트, 애니메이션풍, 3D 렌더링, 플라스틱 같은 그라데이션을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تميمة المحارف",
+    "tagline": "يعيد تصميم بطل صورتك كتميمة سهلة التذكر، أمام سطر واحد من حروف عملاقة.",
+    "look": "لا يُحتفظ إلا بثلاث إلى خمس من أثبت سمات العنصر، ثم يُعاد تصميمه شخصيةً مسطحة بأشكال هندسية مستديرة ونِسب مبالغ فيها، كأيدٍ وأقدام أو أجزاء مميزة مكبّرة، بخطوط محيطية سوداء سميكة نظيفة ومساحات واسعة من لون مسطح تكاد تخلو من التفاصيل الداخلية. يمكن أن تصبح المباني والنباتات والأشياء تمائم أيضاً دون إقحام وجوه عليها. خلف الشخصية سطر من حروف عملاقة سميكة بلا زوائد وبزوايا مستديرة، تتداخل معها الشخصية أو تقطعها، وقد تظهر فقاعة كلام كوميكس أو قليل من النقاط النصفية. الألوان اثنان إلى أربعة فقط مُصفّاة من الصورة مع الأسود والأبيض، زاهية ونظيفة.",
+    "traits": ["سمات الهوية الأساسية", "خطوط سوداء سميكة", "هندسة مستديرة", "نِسب مبالغ فيها", "ألوان علامة محدودة", "خلفية حروف عملاقة"],
+    "good": [
+      "عنصر واحد بملامح قوية: كلب كورغي، شخص يعتمر قبعة، صندوق بريد أحمر، كوب شاي باللؤلؤ",
+      "صور فيها حركة أو شخصية واضحة: شخص يقفز، قطة تتثاءب، راكب أمواج",
+      "صور تريدها شخصية لعلامة تجارية أو صورة لمتجر أو ملصقاً أو صورة رئيسية لحملة"
+    ],
+    "poor": [
+      "الصور الجماعية التي تتساوى فيها أهمية عدة عناصر، إذ لا تتصدر إلا شخصية واحدة",
+      "صور تحتاج إلى واقعية أو خلفية مفصلة: مناظر بانورامية، مشاهد داخلية كاملة",
+      "طلب رسم واقعي أو أسلوب أنمي أو تصيير ثلاثي الأبعاد أو تدرجات بلاستيكية لامعة"
+    ]
+  }
+}
